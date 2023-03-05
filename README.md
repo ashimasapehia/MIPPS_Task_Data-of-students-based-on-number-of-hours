@@ -6,3 +6,4 @@ Data of student based on number of study hours
 2.What will be the predicted score if a student studies for 8.5 hrs/day.
 
 Video Explanation:
+https://drive.google.com/file/d/1kj9EdCNqNybNgf6BVDl1R00SgxRrY27o/view?usp=share_link
